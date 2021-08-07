@@ -1,6 +1,7 @@
 {
   "name": "levenshtein404",
-  "version": "0.0.0",
+  "author": "Daniel Reiser <danielreiser@gmail.com> / @danielreiser",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -18,6 +19,7 @@
     "@angular/platform-browser": "~12.1.2",
     "@angular/platform-browser-dynamic": "~12.1.2",
     "@angular/router": "~12.1.2",
+    "fastest-levenshtein": "^1.0.12",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
